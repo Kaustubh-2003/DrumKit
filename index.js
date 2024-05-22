@@ -71,7 +71,7 @@ function detX(chart) {
       crash.play();
       break;
     default:
-      alert("haha wrong key u dummy");
+      // alert("haha wrong key u dummy");
 
   };
 }
